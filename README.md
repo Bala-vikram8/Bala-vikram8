@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there! 👋 I'm Bala Vikram Tadikonda, a Business Analyst passionate about leveraging data to drive innovative solutions in the retail sector.<br><br>🌍 Based in: The Windy City (Chicago, IL)<br><br>🚀 Passionate about **data analytics, business intelligence, and predictive modeling**. I specialize in leveraging data-driven insights to optimize processes and drive strategic decision-making.<br><br>🎓 Educational Journey:<br> 🎓 **Master’s in Business Analytics (Data Science)** | DePaul University | **GPA: 4.00/4.00**  
+ 👋 Hello! I’m Bala Vikram Tadikonda, a Master’s student in Business Analytics at DePaul University, passionate about leveraging data to drive innovative solutions.<br><br>🌍 Based in: The Windy City (Chicago, IL)<br><br>🚀 Passionate about **data analytics, business intelligence, and predictive modeling**. I specialize in leveraging data-driven insights to optimize processes and drive strategic decision-making.<br><br>🎓 Educational Journey:<br> 🎓 Master’s in Business Analytics (Data Science) | DePaul University | GPA: 4.00/4.00
 🌍 **Based in:** Chicago, USA  <br> 🖥️ Bachelor of Technology in Computer Science from SRK Institute of Technology—where my tech journey began.<br><br>💡 I Shine Brightest When:<br> Analyzing complex data sets and translating them into actionable strategies.<br> Crafting custom Power BI reports to enlighten decision making processes.<br> Collaborating with dynamic teams to design solutions that resonate with client needs.<br><br>🔨 Tech Toolkit:<br> Analytical Tools: Power BI, Financial Reporting, and Database Management<br> Soft Skills: Strategic Planning, Compliance Management, and Effective Communication<br><br>🌱 Currently Growing My Skills in: Advanced analytics techniques to predict trends and optimize business processes.<br><br>🤝 Let’s Collaborate On: Projects that challenge the status quo and require fresh, data driven perspectives to solve real world problems.<br><br>🎯 Professional Mission: To merge analytical rigor with creative problem solving, delivering solutions that not only meet but exceed business and community expectations.<br><br>📬 Reach Out! Let's connect and make something amazing together.<br> LinkedIn: [Bala Vikram Tadikonda](https://www.linkedin.com/in/balavikramtadikonda)<br> Email: btadikon@depaul.edu
 
 ## 📌 Featured Projects
@@ -20,7 +20,32 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bala-vikram-tadikonda/) 
 
 # 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### **Data Visualization & BI**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### **Databases & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### **Machine Learning & Data Processing**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bala-vikram8&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bala-vikram8&theme=solarized-light&hide_border=false)<br/>
