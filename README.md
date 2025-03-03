@@ -17,7 +17,7 @@
      
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/bala-vikram-tadikonda/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bala-vikram-tadikonda/)
 
 # 💻 Tech Stack:
 
