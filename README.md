@@ -4,7 +4,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Retail Theft Analysis in Chicagog](https://github.com/Bala-vikram8/Retail_Theft_Analysis_Chicago)
+### 🔹 [Retail Theft Analysis in Chicago](https://github.com/Bala-vikram8/Retail_Theft_Analysis_Chicago)
    - Analyzed 24 years of retail theft data from Chicago to identify crime patterns, high-risk zones, store vulnerabilities, and arrest likelihood and built predictive models to forecast future incidents.
    - Used Python (Pandas, Matplotlib, Scikit-learn, Prophet, TensorFlow), Geospatial tools (Folium, KMeans), and Tableau for end-to-end analysis. Applied ARIMA, Facebook Prophet, and LSTM for forecasting. Developed classification models like Random Forest, Logistic Regression, and XGBoost for predictive insights.
    - Identified key theft trends, built an interactive Tableau dashboard, and proposed zero-cost, high-impact recommendations for retailers and law enforcement. This project enhanced my EDA, machine learning, and storytelling skills — and prepared me for real-world analyst roles.
