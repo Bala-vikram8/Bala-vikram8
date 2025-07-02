@@ -29,6 +29,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bala-vikram-tadikonda/)
 [![Tableau](https://img.shields.io/badge/Tableau-10A6D5?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/balavikramtadikonda)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bablutadikonda1812)
 
 # 💻 Tech Stack:
 
