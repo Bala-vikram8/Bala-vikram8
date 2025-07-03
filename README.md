@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hello! I’m Bala Vikram Tadikonda, a Master’s student in Business Analytics at DePaul University, passionate about leveraging data to drive innovative solutions.<br><br>🌍 Based in: The Windy City (Chicago, IL)<br><br>🚀 Passionate about **data analytics, business intelligence, and predictive modeling**. I specialize in leveraging data-driven insights to optimize processes and drive strategic decision-making.<br><br> 🎥 **Self-Introduction Video:**  
+ 👋 Hello! I’m Bala Vikram Tadikonda, a Master’s student in Business Analytics at DePaul University, passionate about leveraging data to drive innovative solutions.<br><br>🌍 Based in: United States <br><br>🚀 Passionate about **data analytics, business intelligence, and predictive modeling**. I specialize in leveraging data-driven insights to optimize processes and drive strategic decision-making.<br><br> 🎥 **Self-Introduction Video:**  
 [Watch my 2-minute video introduction here!](https://youtu.be/KRf2x0vP8-E?si=5DYnYfhqNgGZkKgU)  
 (Learn more about my journey, skills, and approach to analytics in this short video.)  
 
