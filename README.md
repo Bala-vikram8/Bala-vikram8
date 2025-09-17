@@ -1,6 +1,30 @@
 # 💫 About Me:
  👋 Hello! I’m Bala Vikram Tadikonda, a Master’s student in Business Analytics at DePaul University, passionate about leveraging data to drive innovative solutions.<br><br>🌍 Based in: United States <br><br>🚀 Passionate about **data analytics, business intelligence, and predictive modeling**. I specialize in leveraging data-driven insights to optimize processes and drive strategic decision-making.<br><br> 
 
+## 💼 Professional Experience
+
+**Business Data Analyst – Walgreens, USA**  
+*Oct 2024 – Present*  
+- Delivered **Power BI dashboards (DAX, Power Query)** improving claims handling efficiency by **18%**.  
+- Architected **Azure data solutions (Data Factory, Synapse, Data Lake)** integrating 20+ data sources.  
+- Migrated legacy systems to **Azure SQL DW**, reducing reporting latency by **35%**.  
+- Implemented predictive analytics in Python, improving customer retention by **9.6%**.  
+- Automated reporting (Python + Power Query), saving **40+ hours monthly**.  
+
+**Data Analyst – Bytes Tachnolab INC, India**  
+*Sep 2021 – Sep 2023*  
+- Built ETL pipelines (Informatica, Talend), orchestrating **100+ jobs weekly** and saving ₹5 Lakhs annually.  
+- Designed AWS Redshift data warehouse, improving scalability and reliability.  
+- Performed fraud detection & segmentation models, saving ₹10 Lakhs annually.  
+- Automated **Python/SQL pipelines**, accelerating reporting turnaround time.  
+
+**Business Analyst – Bytes Tachnolab INC, India**  
+*Sep 2018 – Sep 2021*  
+- Conducted stakeholder interviews, wrote **BRDs/FRDs**, and aligned analytics with business needs.  
+- Drove agile development with user stories and roadmaps.  
+- Led UAT with **95% user satisfaction** post-release.  
+- Built Power BI dashboards, improving real-time decision-making by **25%**.  
+
 🎓 Educational Journey:<br> 🎓 Master’s in Business Analytics (Data Science) | DePaul University | GPA: 4.00/4.00
 🌍 **Based in:** Chicago, USA  <br> 🖥️ Bachelor of Technology in Computer Science from SRK Institute of Technology—where my tech journey began.<br><br>💡 I Shine Brightest When:<br> Analyzing complex data sets and translating them into actionable strategies.<br> Crafting custom Power BI reports to enlighten decision making processes.<br> Collaborating with dynamic teams to design solutions that resonate with client needs.<br><br>🔨 Tech Toolkit:<br> Analytical Tools: Power BI, Financial Reporting, and Database Management<br> Soft Skills: Strategic Planning, Compliance Management, and Effective Communication<br><br>🌱 Currently Growing My Skills in: Advanced analytics techniques to predict trends and optimize business processes.<br><br>🤝 Let’s Collaborate On: Projects that challenge the status quo and require fresh, data driven perspectives to solve real world problems.<br><br>🎯 Professional Mission: To merge analytical rigor with creative problem solving, delivering solutions that not only meet but exceed business and community expectations.<br><br>📬 Reach Out! Let's connect and make something amazing together.<br> LinkedIn: [Bala Vikram Tadikonda](https://www.linkedin.com/in/balavikramtadikonda)<br> Email: btadikon@depaul.edu
 
