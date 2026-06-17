@@ -11,7 +11,7 @@
 
 ## 💼 Professional Experience
 
-**Business Data Analyst — Walgreens, USA**
+**Data Analyst — Walgreens, USA**
 *Apr 2025 – Present*
 - Built **Power BI dashboards (DAX, Power Query)** improving claims handling efficiency by **18%** across 60+ analysts in Pharmacy, Operations, and Finance.
 - Architected **Azure Synapse + Snowflake pipelines** integrating 20+ sources, processing **50M+ monthly transactions** across 3 business units.
