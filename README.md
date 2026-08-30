@@ -65,7 +65,7 @@ Analyzed **1M+ crash records** using **Python, R, and Power BI** as part of the 
 [![Tableau](https://img.shields.io/badge/Tableau-10A6D5?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/balavikramtadikonda)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bablutadikonda1812)
 
-📬 **Email:** bablutadikonda1995@gmail.com
+📬 **Email:** balavikramvts1995@gmail.com
 
 ---
 
