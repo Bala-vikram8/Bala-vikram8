@@ -3,16 +3,15 @@
 
 🚀 I build data pipelines and analytics systems that turn complex operational data into decisions that drive measurable business impact. My work spans the full modern data stack — from **dbt** modeling, **Airflow** orchestration, and **Kafka** streaming to **Power BI** reporting and **Databricks** ML.
 
-📄 **IEEE Published Researcher** — agentic AI architecture for healthcare gap-in-care workflows (IEEE SoutheastCon 2026).
+📄 **IEEE Published Researcher** — Clinical AI Governance & Imbalanced ML Pipeline (IEEE SmartNets 2026).
 
-🤝 Open to **Senior Data Analyst, Analytics Engineer, and Data Engineer** roles — Chicago and remote across the US.
 
 ---
 
 ## 💼 Professional Experience
 
 **Data Analyst — Walgreens, USA**
-*Apr 2025 – Present*
+*Apr 2025 – Aug 2026*
 - Built **Power BI dashboards (DAX, Power Query)** improving claims handling efficiency by **18%** across 60+ analysts in Pharmacy, Operations, and Finance.
 - Architected **Azure Synapse + Snowflake pipelines** integrating 20+ sources, processing **50M+ monthly transactions** across 3 business units.
 - Deployed **Snowpark Python** inside Snowflake for real-time supply chain and IoT refrigeration monitoring, cutting pipeline execution from hours to seconds.
@@ -43,8 +42,8 @@
 ---
 
 ## 📄 Publications
-📄 **Tadikonda, Bala Vikram.** *"Agentic AI for Closing Gaps in Care: A Conceptual Architecture for Automating Gap-in-Care Workflows,"* IEEE SoutheastCon 2026.
-🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11476134) — DOI: 10.1109/IEEE.2026.11476134
+📄 **Tadikonda, Bala Vikram.** *"Governing Clinical AI in Obstetrics: A Review of Safety Gaps and a Lifecycle Framework,"* 2026 International Conference on Smart Applications, Communications and Networking (SmartNets), Rome, Italy
+🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11604692) — DOI: 10.1109/SmartNets69662.2026.11604692
 
 ---
 
