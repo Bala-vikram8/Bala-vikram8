@@ -21,7 +21,7 @@
 
 ## 💼 Experience
 
-**Senior Data Analyst — Walgreens, USA** · *Apr 2025 – Present (Contract)*
+**Senior Data Analyst — Walgreens, USA** · *Apr 2025 –  Aug 2026*
 - Built **Power BI** dashboards (DAX, Power Query) improving claims handling efficiency by **18%** across 60+ analysts.
 - Built **Azure Synapse + Snowflake** pipelines integrating 20+ sources, processing **50M+ monthly transactions** across 3 business units.
 - Deployed **Snowpark Python** for real-time supply chain and IoT refrigeration monitoring; set up **Azure DevOps CI/CD** for Snowpark deployments with automated testing and UAT sign-off.
