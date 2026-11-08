@@ -1,77 +1,68 @@
-# Hi, I'm Bala Vikram Tadikonda 👋
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=bala-vikram8&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153695814%3Fu%3D8f943f9aa74db6007f5b26d9e5a8733d45ba53cc%26v%3D4" alt="bala-vikram8 hero visual" />
+</p>
 
-**AI / Forward Deployed Engineer** in Chicago. I build and deploy LLM and agent systems: agent evaluation and observability, LLM infrastructure, and full-stack apps. I bring a background in data and analytics work in healthcare, retail, and insurance.
+<p align="center"><b>Bala Vikram Tadikonda</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-📄 **IEEE published:** Clinical AI governance (IEEE SmartNets 2026)
-📬 balavikramvts1995@gmail.com · [LinkedIn](https://www.linkedin.com/in/bala-vikram-tadikonda/)
+<p align="center"><a href="https://github.com/bala-vikram8">GitHub</a> · <a href="https://x.com/BalaVikram1995">X</a></p>
 
----
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-## 🚀 Featured AI & Engineering Projects
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=bala-vikram8&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153695814%3Fu%3D8f943f9aa74db6007f5b26d9e5a8733d45ba53cc%26v%3D4" alt="bala-vikram8 projects visual" />
+</p>
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Agent-Eval-Proxy**](https://github.com/Bala-vikram8/Agent-Eval-Proxy) | OpenAI-compatible proxy that records every agent LLM call (streamed or not) in Postgres, grades replies with an LLM judge, and shows latency, time to first token, cost per model, and answer relevance in a dashboard. Offline demo runs with no API key. | Python, FastAPI, PostgreSQL, Streamlit, Docker, GitHub Actions |
-| [**Agent Treasury Control Plane**](https://github.com/Bala-vikram8/agent-treasury-control-plane) | Policy-controlled workflow for machine-initiated test payments: auto-approves, denies, or pauses requests for operator review, then creates Stripe sandbox PaymentIntents with signed-webhook settlement, idempotency, and audit trails. | TypeScript, Next.js, PostgreSQL, Drizzle ORM, Stripe (sandbox), Docker, Vitest, GitHub Actions |
-| [**FinAgent Shield**](https://github.com/Bala-vikram8/Finnagent-Shield) | Reliability and security layer for AI agents in financial settings: failure classification, circuit breaking, prompt-injection detection (direct, indirect, agent-to-agent), and compliance audit logging. | Python, FastAPI, Anthropic Claude API |
-| [**LLM Router**](https://github.com/Bala-vikram8/LLM-Router) | Routes each query to the cheapest Claude model tier that can handle it, using a complexity classifier, domain floor rules, and a feedback loop that adjusts routing thresholds over time. | Python, FastAPI, Anthropic Claude API |
-| [**Clinical RAG Monitor**](https://github.com/Bala-vikram8/Clinical-RAG-Monitor) | Monitors a clinical RAG pipeline for retrieval quality, ungrounded (hallucinated) medical claims, and stale guidelines, with an audit trail for every query. | Python, FastAPI, Anthropic Claude API |
+- [agent-treasury-control-plane](https://github.com/Bala-vikram8/agent-treasury-control-plane) · ★ 2 — Policy controlled machine initiated test payments with PostgreSQL, Stripe sandbox, idempotency, conc
+- [STAIR-Clinical-Monitor](https://github.com/Bala-vikram8/STAIR-Clinical-Monitor) · ★ 0 — Portfolio demo comparing chunked search with table-of-contents-aware retrieval on public OpenStax te
+- [Agent-Eval-Proxy](https://github.com/Bala-vikram8/Agent-Eval-Proxy) · ★ 0 — OpenAI-compatible proxy that records agent LLM calls in Postgres, grades replies with an LLM judge, 
+- [Clinical-RAG-Monitor](https://github.com/Bala-vikram8/Clinical-RAG-Monitor) · ★ 0 — Monitors AI responses in hospital clinical decision support systems. Catches hallucinations, outdate
+- [LLM-Router](https://github.com/Bala-vikram8/LLM-Router) · ★ 0 — Smart LLM routing that sends each query to the cheapest model that can handle it well. Cuts LLM cost
+- [Finnagent-Shield](https://github.com/Bala-vikram8/Finnagent-Shield) · ★ 0 — Production-grade reliability and security framework for AI agents in regulated financial environment
 
----
+</details>
 
-## 💼 Experience
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-**Senior Data Analyst — Walgreens, USA** · *Apr 2025 –  Aug 2026*
-- Built **Power BI** dashboards (DAX, Power Query) improving claims handling efficiency by **18%** across 60+ analysts.
-- Built **Azure Synapse + Snowflake** pipelines integrating 20+ sources, processing **50M+ monthly transactions** across 3 business units.
-- Deployed **Snowpark Python** for real-time supply chain and IoT refrigeration monitoring; set up **Azure DevOps CI/CD** for Snowpark deployments with automated testing and UAT sign-off.
-- Built **BigQuery + Looker Studio** analytics for drug performance tracking and loss prevention.
-- Drove **9.6%** customer retention improvement with **Databricks** churn forecasting models (scikit-learn, gradient boosting).
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=bala-vikram8&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153695814%3Fu%3D8f943f9aa74db6007f5b26d9e5a8733d45ba53cc%26v%3D4" alt="bala-vikram8 stack visual" />
+</p>
 
-**Data Analyst — Bytes Technolab INC, India** · *Sep 2021 – Sep 2023*
-- Built ETL pipelines (**Informatica, Talend, Airflow, dbt**) orchestrating 100+ weekly jobs, cutting processing time **40%** and saving **$6K annually**.
-- Tuned a 2TB+ **AWS Redshift** warehouse, cutting query runtimes from minutes to under 30 seconds.
-- Built containerized ML pipelines (**Docker, TensorFlow, Keras**) for healthcare AI diagnostics.
-- Built **Kafka** consumers for real-time patient vitals analysis feeding **Grafana** clinical monitoring dashboards.
-- Reduced fraudulent payouts by **$12K annually** with Python ML models in claims review pipelines.
+</details>
 
-**Business Analyst — Bytes Technolab INC, India** · *Sep 2018 – Sep 2021*
-- Wrote BRDs/FRDs and Jira user stories, reducing mid-sprint scope churn **30%** across 12 releases.
-- Built Tableau, Excel, and Power BI dashboards, improving leadership response speed to market changes by **25%**.
-- Led UAT with **95%** post-release user satisfaction across 10+ builds.
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
----
+<b>12</b> public repositories, <b>2</b> stars, <b>56</b> contributions in the last year, a longest streak of <b>4</b> days and <b>3</b> followers.
 
-## 🎓 Education
-- **M.S. Business Analytics**, DePaul University, Chicago · GPA 3.80/4.00 · Dean's Award
-- **B.Tech Computer Science Engineering**, SRK Institute of Technology, India · GPA 3.66
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=bala-vikram8&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153695814%3Fu%3D8f943f9aa74db6007f5b26d9e5a8733d45ba53cc%26v%3D4" alt="bala-vikram8 stats visual" />
+</p>
 
-## 📄 Publication
-**Tadikonda, Bala Vikram.** *"Governing Clinical AI in Obstetrics: A Review of Safety Gaps and a Lifecycle Framework,"* 2026 International Conference on Smart Applications, Communications and Networking (SmartNets), Rome, Italy.
-[IEEE Xplore](https://ieeexplore.ieee.org/document/11604692) · DOI: 10.1109/SmartNets69662.2026.11604692
+</details>
 
----
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=bala-vikram8&theme=neon" alt="bala-vikram8 contribution activity" />
+</p>
 
-- **AI / LLM:** Anthropic Claude API, OpenAI-compatible APIs, LLM-as-a-judge evaluation, RAG monitoring, LangChain
-- **Backend:** Python, FastAPI, TypeScript, Next.js, Node.js
-- **Data:** PostgreSQL (Drizzle ORM), SQL, Snowflake, BigQuery, AWS Redshift, Azure Synapse, dbt, Airflow, Kafka, Databricks, PySpark
-- **Infra / DevOps:** Docker, Docker Compose, GitHub Actions, Azure DevOps, AWS, Azure
-- **Testing:** pytest, Vitest
-- **Dashboards:** Streamlit, Power BI, Tableau, Looker Studio, Grafana
+</details>
 
----
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
 
-## 📊 Other Data & Analytics Work
-- [Predictive Fleet Maintenance & Risk](https://github.com/Bala-vikram8/Fleet-Risk-Prediction-Analytics): R (Random Forest, XGBoost) on 350K+ vehicle records, with a Tableau dashboard.
-- [NYC Traffic Crash Analysis (TDSP)](https://github.com/Bala-vikram8/TDSP_Crash_Analysis): Python, R, and Power BI on 1M+ crash records, with USDOT and the National Student Data Corps.
-- [Retail Theft Analysis, Chicago](https://github.com/Bala-vikram8/Retail_Theft_Analysis_Chicago) · [Cloud Kitchen Analytics](https://github.com/Bala-vikram8/cloud-kitchen-analytics) · [Real-Time Crypto Analytics (Snowflake)](https://github.com/Bala-vikram8/Real-Time-Crypto-Market-Analytics-Project-with-Python-Snowflake)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=bala-vikram8&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153695814%3Fu%3D8f943f9aa74db6007f5b26d9e5a8733d45ba53cc%26v%3D4" alt="bala-vikram8 social visual" />
+</p>
 
----
+</details>
 
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bala-vikram-tadikonda/)
-[![Tableau](https://img.shields.io/badge/Tableau-10A6D5?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/balavikramtadikonda)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bablutadikonda1812)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BalaVikram1995)
+<p align="center"><sub>Bala Vikram Tadikonda · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
